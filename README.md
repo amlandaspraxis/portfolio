@@ -19,7 +19,7 @@ The portfolio is developed as a long-term cyber life project where I apply secur
 - Security focus: Input validation, secure configuration, basic vulnerability assessment
 
 ## Status
-In progress
+
 
 ## Disclaimer
 This project is intended strictly for educational and ethical learning purposes. All development, testing, and security assessments are performed only on my own application.
