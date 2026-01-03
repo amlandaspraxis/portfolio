@@ -23,5 +23,3 @@ In progress
 
 ## Disclaimer
 This project is intended strictly for educational and ethical learning purposes. All development, testing, and security assessments are performed only on my own application.
-
-
