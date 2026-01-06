@@ -5,7 +5,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="max-w-4xl mx-auto text-center">
         <h1 className="text-3xl md:text-4xl font-semibold">
-          Cybersecurity Student & UI/UX Designer
+          Designing Secure Systems Crafting meaningful visuals
         </h1>
 
         <p className="mt-4 text-base md:text-lg text-gray-600">
